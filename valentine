@@ -1,0 +1,23 @@
+</head>
+<body class="container">
+    <div class="night"></div>
+    <div class="text" >
+      <h1>Happy valentine's day midlaner fav gwe </h1>
+    <div class="text">
+        <div class="wrapper">
+            <div class="lid one"></div>
+            <div class="lid two"></div>
+            <div class="envelope"></div>
+            <div class="letter">
+                <p>semoga imortall awokwok </p>
+            </div>
+        </div>
+        <div class="buttons">
+            <button id="openBtn">Open</button>
+            <button id="closeBtn" style="display: none;">Close</button>
+        </div>
+    </div>
+    
+    <div class="flowers">
+      <div class="flower flower--1">
+        <div class="flower__leafs flower__leafs--1">
